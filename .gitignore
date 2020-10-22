@@ -1,0 +1,3 @@
+# Project exclude paths
+/jigsaw-module-layers/target/
+/scala-swing-form/target/
